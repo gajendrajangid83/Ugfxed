@@ -1,4 +1,4 @@
 
 ## Deploy Via Buttons
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Ravisindhav/UPLODERsandisir-uguploder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/gajendrajangid83/Ugfxed)
